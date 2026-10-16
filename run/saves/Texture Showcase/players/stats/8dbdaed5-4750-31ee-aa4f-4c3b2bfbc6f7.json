@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 877,
+      "minecraft:time_since_rest": 38602,
+      "minecraft:walk_one_cm": 35019,
+      "minecraft:total_world_time": 49488,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 18032,
+      "minecraft:sneak_time": 11,
+      "minecraft:play_time": 49468,
+      "minecraft:deaths": 1,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 38581,
+      "minecraft:drop": 1
+    },
+    "minecraft:dropped": {
+      "rubiesandmore:ruby_spear": 1
+    },
+    "minecraft:used": {
+      "minecraft:item_frame": 36,
+      "rubiesandmore:ruby_ore": 19,
+      "rubiesandmore:ruby_block": 22,
+      "rubiesandmore:deepslate_ruby_ore": 15,
+      "minecraft:armor_stand": 4
+    },
+    "minecraft:picked_up": {
+      "rubiesandmore:ruby_spear": 1
+    }
+  },
+  "DataVersion": 4903
+}

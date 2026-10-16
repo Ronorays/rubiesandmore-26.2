@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 1,
+      "rubiesandmore:ruby_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 2614,
+      "minecraft:walk_one_cm": 936,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 2614,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 2614,
+      "minecraft:drop": 5,
+      "minecraft:sprint_one_cm": 455,
+      "minecraft:total_world_time": 2625,
+      "minecraft:fly_one_cm": 338,
+      "minecraft:crouch_one_cm": 52,
+      "minecraft:sneak_time": 6
+    },
+    "minecraft:dropped": {
+      "minecraft:sand": 2,
+      "minecraft:gunpowder": 1,
+      "minecraft:mutton": 2,
+      "minecraft:bone": 3,
+      "minecraft:white_wool": 1
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_block": 1
+    }
+  },
+  "DataVersion": 4903
+}

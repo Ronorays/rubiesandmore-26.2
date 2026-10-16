@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "rubiesandmore:emerald_boots": 1
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_block": 7,
+      "rubiesandmore:emerald_boots": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:sprint_one_cm": 669,
+      "minecraft:time_since_rest": 675,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:walk_one_cm": 175,
+      "minecraft:total_world_time": 686,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1692,
+      "minecraft:play_time": 675,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 675
+    }
+  },
+  "DataVersion": 4903
+}

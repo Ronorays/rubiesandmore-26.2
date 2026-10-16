@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "rubiesandmore",
+	"version": "${version}",
+	"name": "RubiesAndMore",
+	"description": "This is a mod for releasing armor types Mojang is too scared to publish",
+	"authors": [
+		"Ronorays"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"formores.rubiesandmore.RubiesAndMore"
+		],
+		"client": [
+			"formores.rubiesandmore.client.RubiesAndMoreClient"
+		],
+		"fabric-datagen": ["formores.rubiesandmore.client.RubiesAndMoreDataGenerator"]
+	},
+	"mixins": [
+		"rubiesandmore.mixins.json",
+		{
+			"config": "rubiesandmore.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

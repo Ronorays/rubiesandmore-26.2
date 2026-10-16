@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:sprint_one_cm": 908,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:time_since_rest": 3003,
+      "minecraft:fall_one_cm": 1125,
+      "minecraft:walk_one_cm": 1250,
+      "minecraft:total_world_time": 4526,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 2334,
+      "minecraft:play_time": 4435,
+      "minecraft:jump": 21,
+      "minecraft:time_since_death": 4435
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:emerald_axe": 1,
+      "rubiesandmore:emerald_helmet": 1
+    },
+    "minecraft:used": {
+      "minecraft:diamond_pickaxe": 1,
+      "rubiesandmore:ruby_block": 1,
+      "minecraft:blue_bed": 1,
+      "rubiesandmore:emerald_pickaxe": 2
+    }
+  },
+  "DataVersion": 4903
+}

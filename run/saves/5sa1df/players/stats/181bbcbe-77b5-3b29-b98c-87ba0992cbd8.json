@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:squid": 1
+    },
+    "minecraft:used": {
+      "minecraft:leaf_litter": 2,
+      "rubiesandmore:ruby_chestplate": 1,
+      "rubiesandmore:ruby_sword": 2,
+      "rubiesandmore:ruby_axe": 30
+    },
+    "minecraft:picked_up": {
+      "minecraft:ink_sac": 3,
+      "minecraft:leaf_litter": 2,
+      "minecraft:oak_log": 28
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 28
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3446,
+      "minecraft:walk_one_cm": 3596,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 584,
+      "minecraft:damage_dealt": 100,
+      "minecraft:play_time": 3446,
+      "minecraft:jump": 55,
+      "minecraft:time_since_death": 3446,
+      "minecraft:sprint_one_cm": 7874,
+      "minecraft:fall_one_cm": 1750,
+      "minecraft:swim_one_cm": 4785,
+      "minecraft:total_world_time": 3620,
+      "minecraft:fly_one_cm": 10213,
+      "minecraft:walk_on_water_one_cm": 1591,
+      "minecraft:crouch_one_cm": 663,
+      "minecraft:sneak_time": 144
+    }
+  },
+  "DataVersion": 4903
+}

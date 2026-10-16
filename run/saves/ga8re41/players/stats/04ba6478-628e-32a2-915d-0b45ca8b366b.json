@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "rubiesandmore:ruby": 33
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 3,
+      "minecraft:iron_pickaxe": 15
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 160,
+      "minecraft:time_since_rest": 977,
+      "minecraft:walk_one_cm": 4318,
+      "minecraft:total_world_time": 996,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 977,
+      "minecraft:time_since_death": 977
+    },
+    "minecraft:mined": {
+      "rubiesandmore:ruby_ore": 18
+    }
+  },
+  "DataVersion": 4903
+}

@@ -1,0 +1,2 @@
+Emerald apples: Regen 3
+Enchanted emerald apples: resistance 2[1 min], Regen 2[30 sec], jump boost 2[30 sec], absorption 2 [1 min]

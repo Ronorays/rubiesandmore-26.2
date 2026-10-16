@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_chestplate": 1,
+      "rubiesandmore:ruby_chestplate": 1
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_chestplate": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:sprint_one_cm": 512,
+      "minecraft:time_since_rest": 570,
+      "minecraft:walk_one_cm": 139,
+      "minecraft:total_world_time": 610,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 533,
+      "minecraft:crouch_one_cm": 70,
+      "minecraft:sneak_time": 8,
+      "minecraft:play_time": 570,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 570
+    }
+  },
+  "DataVersion": 4903
+}

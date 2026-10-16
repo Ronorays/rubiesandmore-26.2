@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 934,
+      "minecraft:time_since_rest": 819,
+      "minecraft:walk_one_cm": 1091,
+      "minecraft:total_world_time": 834,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 2891,
+      "minecraft:play_time": 819,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 819
+    },
+    "minecraft:used": {
+      "minecraft:diamond_pickaxe": 1,
+      "rubiesandmore:deepslate_ruby_ore": 9
+    }
+  },
+  "DataVersion": 4903
+}

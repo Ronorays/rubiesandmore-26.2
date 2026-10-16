@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "rubiesandmore:ruby",
+    "|": "minecraft:stick"
+  },
+  "pattern": [
+    "###",
+    " | ",
+    " | "
+  ],
+  "result": {
+    "id": "rubiesandmore:ruby_pickaxe",
+    "count": 1
+  }
+}

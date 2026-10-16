@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:enchanted_golden_apple": 7,
+      "minecraft:emerald": 18
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 5077,
+      "minecraft:walk_one_cm": 2636,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 5077,
+      "minecraft:jump": 58,
+      "minecraft:time_since_death": 5077,
+      "minecraft:sprint_one_cm": 5787,
+      "minecraft:fall_one_cm": 2100,
+      "minecraft:total_world_time": 5167,
+      "minecraft:fly_one_cm": 9673,
+      "minecraft:walk_on_water_one_cm": 196,
+      "minecraft:crouch_one_cm": 214,
+      "minecraft:sneak_time": 33
+    },
+    "minecraft:used": {
+      "rubiesandmore:emerald_apple": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:enchanted_golden_apple": 1,
+      "rubiesandmore:enchanted_emerald_apple": 1
+    }
+  },
+  "DataVersion": 4903
+}

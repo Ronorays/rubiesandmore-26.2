@@ -1,0 +1,56 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_block": 9,
+      "rubiesandmore:ruby_pickaxe": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 17,
+      "minecraft:fern": 4,
+      "rubiesandmore:deepslate_ruby_ore": 7,
+      "minecraft:emerald_block": 1,
+      "minecraft:poppy": 3,
+      "minecraft:jungle_log": 6,
+      "minecraft:jungle_leaves": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 4258,
+      "minecraft:walk_one_cm": 8674,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 30,
+      "minecraft:play_time": 4258,
+      "minecraft:jump": 58,
+      "minecraft:time_since_death": 4258,
+      "minecraft:sprint_one_cm": 4683,
+      "minecraft:fall_one_cm": 1777,
+      "minecraft:total_world_time": 4276,
+      "minecraft:fly_one_cm": 7021,
+      "minecraft:walk_on_water_one_cm": 176,
+      "minecraft:crouch_one_cm": 93,
+      "minecraft:sneak_time": 20,
+      "minecraft:climb_one_cm": 728
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 3,
+      "rubiesandmore:emerald_axe": 7,
+      "minecraft:diamond_pickaxe": 3,
+      "minecraft:emerald_block": 2,
+      "minecraft:poppy": 3,
+      "rubiesandmore:ruby_ore": 1,
+      "minecraft:emerald_ore": 1,
+      "rubiesandmore:ruby_block": 1,
+      "rubiesandmore:deepslate_ruby_ore": 2,
+      "rubiesandmore:emerald_pickaxe": 2,
+      "minecraft:deepslate_emerald_ore": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:poppy": 3,
+      "minecraft:emerald_block": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:jungle_log": 6,
+      "rubiesandmore:ruby": 7
+    }
+  },
+  "DataVersion": 4903
+}

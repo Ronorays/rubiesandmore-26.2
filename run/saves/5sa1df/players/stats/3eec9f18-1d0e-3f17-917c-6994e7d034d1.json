@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 3
+    },
+    "minecraft:mined": {
+      "minecraft:stone": 6
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 396,
+      "minecraft:time_since_rest": 888,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:walk_one_cm": 324,
+      "minecraft:total_world_time": 903,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1511,
+      "minecraft:crouch_one_cm": 102,
+      "minecraft:sneak_time": 15,
+      "minecraft:play_time": 888,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 888
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 7,
+      "rubiesandmore:ruby_ore": 1
+    }
+  },
+  "DataVersion": 4903
+}

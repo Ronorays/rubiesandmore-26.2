@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 3009,
+      "minecraft:walk_one_cm": 4151,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 5525,
+      "minecraft:jump": 108,
+      "minecraft:time_since_death": 5525,
+      "minecraft:sprint_one_cm": 6559,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 3187,
+      "minecraft:total_world_time": 7426,
+      "minecraft:fly_one_cm": 22700,
+      "minecraft:crouch_one_cm": 78,
+      "minecraft:sneak_time": 19,
+      "minecraft:climb_one_cm": 279
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_leggings": 1,
+      "rubiesandmore:ruby_boots": 1,
+      "rubiesandmore:ruby_chestplate": 1,
+      "rubiesandmore:ruby_helmet": 1
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_leggings": 1,
+      "rubiesandmore:ruby_chestplate": 1,
+      "rubiesandmore:ruby_boots": 1,
+      "rubiesandmore:ruby_helmet": 1,
+      "rubiesandmore:ruby_sword": 1
+    }
+  },
+  "DataVersion": 4903
+}

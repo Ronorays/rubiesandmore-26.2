@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "rubiesandmore:emerald_spear": 1,
+      "rubiesandmore:enchanted_emerald_apple": 3,
+      "minecraft:emerald": 9
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:sprint_one_cm": 2332,
+      "minecraft:time_since_rest": 1579,
+      "minecraft:walk_one_cm": 70,
+      "minecraft:total_world_time": 1593,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 337,
+      "minecraft:crouch_one_cm": 30,
+      "minecraft:sneak_time": 18,
+      "minecraft:play_time": 1579,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 1579
+    }
+  },
+  "DataVersion": 4903
+}

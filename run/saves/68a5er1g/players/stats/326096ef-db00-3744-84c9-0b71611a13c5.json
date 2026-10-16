@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_leggings": 1,
+      "rubiesandmore:ruby_chestplate": 1,
+      "rubiesandmore:ruby_boots": 1,
+      "rubiesandmore:ruby_helmet": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 687,
+      "minecraft:total_world_time": 7587,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 687,
+      "minecraft:time_since_death": 687
+    }
+  },
+  "DataVersion": 4903
+}

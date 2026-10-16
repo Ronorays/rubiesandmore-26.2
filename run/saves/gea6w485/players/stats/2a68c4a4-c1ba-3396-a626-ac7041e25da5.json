@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:drowned": 1
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_sword": 7
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:damage_resisted": 30,
+      "minecraft:time_since_rest": 736,
+      "minecraft:walk_one_cm": 1978,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 123,
+      "minecraft:play_time": 736,
+      "minecraft:damage_dealt": 361,
+      "minecraft:jump": 10,
+      "minecraft:time_since_death": 736,
+      "minecraft:sprint_one_cm": 545,
+      "minecraft:fall_one_cm": 325,
+      "minecraft:total_world_time": 2711,
+      "minecraft:fly_one_cm": 780
+    },
+    "minecraft:picked_up": {
+      "minecraft:arrow": 2,
+      "minecraft:rotten_flesh": 1
+    }
+  },
+  "DataVersion": 4903
+}

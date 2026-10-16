@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "rubiesandmore:deepslate_ruby_ore": 2,
+      "rubiesandmore:ruby_ore": 4
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2368,
+      "minecraft:time_since_rest": 2003,
+      "minecraft:walk_one_cm": 3123,
+      "minecraft:total_world_time": 5001,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 9709,
+      "minecraft:crouch_one_cm": 54,
+      "minecraft:sneak_time": 6,
+      "minecraft:play_time": 2003,
+      "minecraft:jump": 12,
+      "minecraft:time_since_death": 2003
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 2,
+      "rubiesandmore:ruby_ore": 4,
+      "minecraft:netherite_pickaxe": 4,
+      "rubiesandmore:deepslate_ruby_ore": 2
+    },
+    "minecraft:picked_up": {
+      "rubiesandmore:ruby_ore": 3,
+      "rubiesandmore:deepslate_ruby_ore": 1,
+      "rubiesandmore:ruby": 2
+    }
+  },
+  "DataVersion": 4903
+}

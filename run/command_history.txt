@@ -1,0 +1,50 @@
+/give @s stick 64
+/give @s rubiesandmore:ruby 64
+/recipe give @p *
+/give @s rubiesandmore:emerald_apple
+/give @s minecraft:crafting_table
+/give @s minecraft:emerald_block 64
+/give @s apple 64
+/recipe give @p *
+/give @s rubiesandmore:emerald_apple 64
+/give @s rubiesandmore:enchanted_emerald_apple 64
+/effect clear
+/give @s minecraft:emerald_block 64
+/give @s rubiesandmore:ruby
+/give @s rubiesandmore:ruby 64
+/give @s minecraft:emerald_block 64
+/recipe give @p *
+/give @s minecraft:crafting_table
+/give @s stick 64
+/give @s apple 64
+/give @s minecraft:golden_apple
+/give @s minecraft:diamond_pickaxe
+/give @s minecraft:blue_bed
+/give @s rubiesandmore:ruby 64
+/give @s minecraft:diamond_sword
+/give @s minecraft:diamond_helmet
+/give @s rubiesandmore:deepslate_ruby_ore
+/effect give @s haste infinite 30
+/effect clear
+/give @s rubiesandmore:deepslate_ruby_ore
+/give @s rubiesandmore:ruby_ore
+/give @s minecraft:deepslate_emerald_ore
+/give @s minecraft:emerald_ore
+/time set day
+/gamerule spawn_mobs false
+/kill @e
+/time set minecraft:day
+/time pause
+/place feature rubiesandmore:ruby_ore
+/locate biome minecraft:stony_peaks
+/tp @s -2 60 35
+/fill 21 -30 29 -21 0 -29 minecraft:deepslate replace air
+/fill 21 -30 29 -21 -10 -29 minecraft:deepslate replace air
+/fill 21 -30 29 -21 -20 -29 minecraft:deepslate replace air
+/fill 21 -30 29 -21 -20 -29 minecraft:air replace minecraft:deepslate
+/enchant @s minecraft:silk_touch
+/enchant @s minecraft:sharpness
+/enchant @s minecraft:efficiency
+/enchant @s minecraft:protection 5
+/enchant @s minecraft:protection 4
+/enchant @s minecraft:lunge

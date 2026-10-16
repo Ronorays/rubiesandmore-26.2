@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "rubiesandmore:ruby"
+  },
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "material": "rubiesandmore:ruby",
+  "result": "rubiesandmore:ruby_helmet"
+}

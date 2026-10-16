@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 7,
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:enderman": 3,
+      "minecraft:drowned": 1,
+      "minecraft:spider": 1
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_leggings": 1,
+      "rubiesandmore:emerald_apple": 1,
+      "rubiesandmore:ruby_boots": 1,
+      "rubiesandmore:ruby_sword": 47,
+      "rubiesandmore:ruby_helmet": 1,
+      "rubiesandmore:enchanted_emerald_apple": 2,
+      "rubiesandmore:ruby_axe": 2,
+      "rubiesandmore:ruby_spear": 2
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:damage_resisted": 113,
+      "minecraft:time_since_rest": 5535,
+      "minecraft:walk_one_cm": 12409,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 14,
+      "minecraft:walk_under_water_one_cm": 18,
+      "minecraft:damage_taken": 224,
+      "minecraft:damage_dealt": 3026,
+      "minecraft:play_time": 5535,
+      "minecraft:damage_absorbed": 299,
+      "minecraft:jump": 205,
+      "minecraft:time_since_death": 5535,
+      "minecraft:sprint_one_cm": 19048,
+      "minecraft:fall_one_cm": 5050,
+      "minecraft:swim_one_cm": 473,
+      "minecraft:total_world_time": 5602,
+      "minecraft:fly_one_cm": 29066,
+      "minecraft:walk_on_water_one_cm": 855,
+      "minecraft:crouch_one_cm": 10,
+      "minecraft:sneak_time": 12
+    },
+    "minecraft:picked_up": {
+      "minecraft:ender_pearl": 2,
+      "minecraft:string": 1,
+      "minecraft:sand": 2,
+      "minecraft:gunpowder": 1,
+      "minecraft:arrow": 5,
+      "minecraft:bone": 3,
+      "minecraft:spider_eye": 1,
+      "minecraft:rotten_flesh": 11
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_leggings": 1,
+      "rubiesandmore:emerald_apple": 1,
+      "rubiesandmore:enchanted_emerald_apple": 1,
+      "rubiesandmore:ruby_boots": 1,
+      "rubiesandmore:ruby_helmet": 1
+    }
+  },
+  "DataVersion": 4903
+}

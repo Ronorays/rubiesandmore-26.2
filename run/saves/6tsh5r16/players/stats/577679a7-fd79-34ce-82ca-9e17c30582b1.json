@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:jungle_planks": 4,
+      "rubiesandmore:ruby_block": 24,
+      "rubiesandmore:emerald_helmet": 1,
+      "minecraft:crafting_table": 1,
+      "rubiesandmore:ruby": 261
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 6,
+      "minecraft:time_since_rest": 3166,
+      "minecraft:walk_one_cm": 715,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 3166,
+      "minecraft:jump": 19,
+      "minecraft:time_since_death": 3166,
+      "minecraft:sprint_one_cm": 1702,
+      "minecraft:fall_one_cm": 450,
+      "minecraft:total_world_time": 3183,
+      "minecraft:fly_one_cm": 2643,
+      "minecraft:crouch_one_cm": 46,
+      "minecraft:sneak_time": 6
+    },
+    "minecraft:picked_up": {
+      "minecraft:jungle_log": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 2,
+      "minecraft:jungle_log": 1
+    }
+  },
+  "DataVersion": 4903
+}

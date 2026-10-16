@@ -1,0 +1,13 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "rubiesandmore:ruby" }
+    ],
+    "humanoid_baby": [
+      { "texture": "rubiesandmore:ruby" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "rubiesandmore:ruby" }
+    ]
+  }
+}

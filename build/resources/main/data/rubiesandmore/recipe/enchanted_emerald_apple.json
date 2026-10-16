@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:emerald_block",
+    "|": "minecraft:apple"
+  },
+  "pattern": [
+    "###",
+    "#|#",
+    "###"
+  ],
+  "result": {
+    "id": "rubiesandmore:enchanted_emerald_apple",
+    "count": 1
+  }
+}

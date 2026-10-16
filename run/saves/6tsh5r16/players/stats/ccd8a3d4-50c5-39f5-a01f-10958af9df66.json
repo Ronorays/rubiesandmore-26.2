@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 1652,
+      "minecraft:walk_one_cm": 248,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 1652,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 1652,
+      "minecraft:sprint_one_cm": 899,
+      "minecraft:fall_one_cm": 400,
+      "minecraft:total_world_time": 2692,
+      "minecraft:fly_one_cm": 28,
+      "minecraft:sneak_time": 5
+    },
+    "minecraft:crafted": {
+      "minecraft:emerald": 54
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4903
+}

@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "rubiesandmore:emerald_pickaxe": 2
+    },
+    "minecraft:mined": {
+      "minecraft:fern": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4001,
+      "minecraft:total_world_time": 4030,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 4001,
+      "minecraft:time_since_death": 4001
+    }
+  },
+  "DataVersion": 4903
+}

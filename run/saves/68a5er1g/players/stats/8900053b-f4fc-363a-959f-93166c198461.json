@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "rubiesandmore:ruby": 3435
+    },
+    "minecraft:mined": {
+      "rubiesandmore:ruby_ore": 3639
+    },
+    "minecraft:broken": {
+      "minecraft:netherite_pickaxe": 1,
+      "minecraft:diamond_pickaxe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 21913,
+      "minecraft:walk_one_cm": 44536,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 2190,
+      "minecraft:play_time": 21913,
+      "minecraft:damage_absorbed": 1880,
+      "minecraft:jump": 43,
+      "minecraft:time_since_death": 21913,
+      "minecraft:sprint_one_cm": 16530,
+      "minecraft:fall_one_cm": 91475,
+      "minecraft:total_world_time": 22389,
+      "minecraft:fly_one_cm": 700,
+      "minecraft:crouch_one_cm": 714,
+      "minecraft:sneak_time": 1024
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 47,
+      "minecraft:netherite_helmet": 1,
+      "minecraft:diamond_pickaxe": 1561,
+      "minecraft:netherite_boots": 1,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:netherite_leggings": 1,
+      "rubiesandmore:ruby_ore": 16,
+      "minecraft:netherite_pickaxe": 2031
+    }
+  },
+  "DataVersion": 4903
+}

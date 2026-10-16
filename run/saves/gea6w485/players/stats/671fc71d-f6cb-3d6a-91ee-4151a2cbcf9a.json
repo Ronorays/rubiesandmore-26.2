@@ -1,0 +1,68 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:sheep": 1,
+      "minecraft:cow": 4
+    },
+    "minecraft:mined": {
+      "minecraft:melon": 1,
+      "minecraft:dark_oak_log": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:coal_ore": 20,
+      "minecraft:copper_ore": 2,
+      "minecraft:stone": 25,
+      "minecraft:bamboo": 2
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:ruby_pickaxe": 1,
+      "rubiesandmore:ruby_spear": 1,
+      "rubiesandmore:ruby_axe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 9339,
+      "minecraft:walk_one_cm": 17449,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 355,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 110,
+      "minecraft:play_time": 9339,
+      "minecraft:damage_dealt": 480,
+      "minecraft:jump": 223,
+      "minecraft:time_since_death": 9339,
+      "minecraft:sprint_one_cm": 31891,
+      "minecraft:fall_one_cm": 7840,
+      "minecraft:total_world_time": 9415,
+      "minecraft:swim_one_cm": 5877,
+      "minecraft:fly_one_cm": 40070,
+      "minecraft:walk_on_water_one_cm": 1642,
+      "minecraft:crouch_one_cm": 174,
+      "minecraft:sneak_time": 109,
+      "minecraft:climb_one_cm": 240
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_pickaxe": 47,
+      "minecraft:crafting_table": 2,
+      "rubiesandmore:ruby_sword": 5,
+      "rubiesandmore:ruby_axe": 4,
+      "rubiesandmore:ruby_spear": 8,
+      "minecraft:bamboo": 17,
+      "minecraft:melon_slice": 7,
+      "minecraft:dark_oak_log": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:coal": 20,
+      "minecraft:cobblestone": 25,
+      "minecraft:melon_slice": 7,
+      "minecraft:bamboo": 17,
+      "minecraft:white_wool": 1,
+      "minecraft:mutton": 2,
+      "minecraft:leather": 8,
+      "minecraft:crafting_table": 1,
+      "minecraft:raw_copper": 6,
+      "minecraft:beef": 9,
+      "minecraft:dark_oak_log": 3
+    }
+  },
+  "DataVersion": 4903
+}

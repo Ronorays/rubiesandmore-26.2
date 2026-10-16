@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:pig": 1,
+      "minecraft:cow": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:porkchop": 2,
+      "minecraft:jungle_log": 1,
+      "minecraft:beef": 3,
+      "minecraft:leather": 2
+    },
+    "minecraft:used": {
+      "rubiesandmore:emerald_spear": 6,
+      "minecraft:golden_apple": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 2,
+      "minecraft:leather": 2,
+      "minecraft:oak_sapling": 1,
+      "minecraft:jungle_log": 2,
+      "minecraft:beef": 3
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 3,
+      "minecraft:jungle_log": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:jungle_planks": 4,
+      "rubiesandmore:emerald_apple": 5,
+      "rubiesandmore:emerald_leggings": 1,
+      "rubiesandmore:emerald_helmet": 1,
+      "rubiesandmore:emerald_chestplate": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:emerald": 45
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 4305,
+      "minecraft:walk_one_cm": 3072,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 30,
+      "minecraft:damage_dealt": 200,
+      "minecraft:play_time": 4305,
+      "minecraft:jump": 94,
+      "minecraft:time_since_death": 4305,
+      "minecraft:drop": 8,
+      "minecraft:sprint_one_cm": 13281,
+      "minecraft:fall_one_cm": 5320,
+      "minecraft:total_world_time": 4331,
+      "minecraft:fly_one_cm": 21490,
+      "minecraft:crouch_one_cm": 177,
+      "minecraft:sneak_time": 21,
+      "minecraft:climb_one_cm": 148
+    }
+  },
+  "DataVersion": 4903
+}

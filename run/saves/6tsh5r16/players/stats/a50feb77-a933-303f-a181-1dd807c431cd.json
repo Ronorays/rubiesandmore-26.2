@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:sprint_one_cm": 236,
+      "minecraft:time_since_rest": 259,
+      "minecraft:walk_one_cm": 676,
+      "minecraft:total_world_time": 272,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 42,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 259,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 259
+    },
+    "minecraft:used": {
+      "rubiesandmore:ruby_block": 1
+    },
+    "minecraft:crafted": {
+      "rubiesandmore:emerald_pickaxe": 1
+    }
+  },
+  "DataVersion": 4903
+}
